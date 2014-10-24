@@ -1,0 +1,65 @@
+cd
+pwd
+ls
+man
+touch
+rm
+rmdir
+nano
+mkdir
+cp
+mv
+sudo
+apt-get install
+apt-get update
+apt-get purge
+cat
+top
+pidof
+kill
+ps
+useradd
+passwd
+cal
+aspell
+chgrp
+chmod
+chown
+clear
+date
+df (hard disk)
+echo
+exit
+free (memory)
+groupadd
+groupdel
+groupmod
+groups
+gzip
+reboot
+shutdown
+wc
+zip
+!!
+tracepath
+netstat
+ping
+ifconfig
+ifcfg (needs parameters)
+host
+dig
+wget
+aptitude (search)
+ssh
+telnet (could not get to work)
+arp
+
+
+
+-------------------------------------
+Installing Files:
+
+1) tar
+2) ./configure
+3) make
+4) make install
